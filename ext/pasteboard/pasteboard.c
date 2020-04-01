@@ -1,5 +1,5 @@
 #include <ruby.h>
-#include <Pasteboard.h>
+#include <pasteboard.h>
 #include "extconf.h"
 
 #define BUFSIZE 128
